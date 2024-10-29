@@ -1,0 +1,3 @@
+id = Làng lá
+Làng Lá Mieow = 100:localhost:2907:2908
+Làng Lá Mi = 100:localhost:2907:2908
